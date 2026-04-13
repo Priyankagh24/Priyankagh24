@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanka Ghosh</h1>
 <h3 align="center">A passionate developer, problem-solver, and tech enthusiast, constantly experimenting and growing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankagh24&label=Profile%20views&color=0e75b6&style=flat" alt="priyankagh24" /> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyankagh24&theme=onedark&no-frame=true&margin-w=15" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankagh24" alt="priyankagh24" /></a> </p>
 
