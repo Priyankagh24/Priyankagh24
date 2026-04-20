@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&text=Priyanka%20Ghosh&fontSize=55&fontColor=fff&animation=fadeIn&desc=Building%20things.%20Learning%20always.&descSize=17&height=220&fontAlignY=38&descAlignY=55&section=header" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF6EB4&center=true&vCenter=true&width=1000&height=120&lines=Hi+there%2C+I'm+Priyanka+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Explorer;Building+things.+Learning+always." />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=550&lines=B.Tech+CSE+%40+KIIT+University+%2727;Full-Stack+Developer+%7C+React+%26+Python;Exploring+AI+%7C+ML+%7C+NLP+%7C+Signal+Processing;New+tech+every+project.+Always.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyankagh24&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -131,8 +132,7 @@
 
 <div align="center">
 
-[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankagh24&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=false&border_color=30363d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankagh24&bg_color=0d1117&color=00FFFF&line=FF2D9B&point=FFD700&area=true&area_color=FF2D9B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 
