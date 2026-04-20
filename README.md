@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Priyanka Ghosh</h1>
-<h3 align="center">A passionate developer, problem-solver, and tech enthusiast, constantly experimenting and growing.</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&text=Priyanka%20Ghosh&fontSize=55&fontColor=fff&animation=fadeIn&desc=Building%20things.%20Learning%20always.&descSize=17&height=220&fontAlignY=38&descAlignY=55&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=550&lines=B.Tech+CSE+%40+KIIT+University+%2727;Full-Stack+Developer+%7C+React+%26+Python;Exploring+AI+%7C+ML+%7C+NLP+%7C+Signal+Processing;New+tech+every+project.+Always.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyankagh24&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I'm currently learning **innovative tools, improving my coding skills, and experimenting with different tech solutions.**
+</div>
 
-- 📫 How to reach me: **pghosh7504@gmail.com**
+---
+
+### 👩‍💻 About Me
+
+- 🔭 &nbsp;Currently building full-stack projects across web development, AI, and signal processing
+- 🌱 &nbsp;Exploring **machine learning, NLP, computer vision** — one project at a time
+- 🤝 &nbsp;Looking to collaborate on **open-source projects** that solve real-world problems
+- 💬 &nbsp;Ask me about **React, FastAPI, Python backends, and getting things shipped**
+- 📫 &nbsp;Reach me at: **pghosh7504@gmail.com**
+- ⚡ &nbsp;Fun fact: I pick a technology I've never used before for every new project — on purpose
 
 ---
 
 ### 🔗 Connect with me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankaghosh07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ghosh_priyanka)
+
+</div>
 
 ---
 
 ### 🛠️ Languages
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,27 +45,43 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
+
 ### 🌐 Frontend
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
+</div>
+
 ### ⚙️ Backend
+
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+</div>
+
 ### 🗄️ Databases
+
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+</div>
+
 ### 🤖 AI / ML & Data
+
+<div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -62,7 +96,11 @@
 ![MoviePy](https://img.shields.io/badge/MoviePy-000000?style=for-the-badge&logoColor=white)
 ![gTTS](https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+</div>
+
 ### 🔧 Tools & Technologies
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -70,18 +108,35 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankagh24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankagh24&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=priyankagh24&show_icons=true&locale=en&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankagh24&show_icons=true&locale=en&layout=compact&theme=github_dark" />
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankagh24&" alt="GitHub Streak" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankagh24&theme=github-dark-blue" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankagh24&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=false&border_color=30363d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+</div>
