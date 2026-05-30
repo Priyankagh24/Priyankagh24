@@ -116,8 +116,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyankagh24&show_icons=true&locale=en&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankagh24&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=priyankagh24&show_icons=true&locale=en&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankagh24&show_icons=true&locale=en&layout=compact&theme=github_dark" /> -->
 
 <br/>
 
